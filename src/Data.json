@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Aslan",
+        "Description": "Gururlu aslan, savanasının kralıdır."
+    },
+    {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/109892/pexels-photo-109892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Kaplumbağa",
+        "Description": "Yavaş ama kararlı bir şekilde ilerleyen kaplumbağa."
+    },
+    {
+        "id": 3,
+        "image": "https://images.pexels.com/photos/18558753/pexels-photo-18558753/free-photo-of-shark-in-nature.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Köpekbalığı",
+        "Description": "Derin sularda hüküm süren korkusuz köpekbalığı."
+    },
+    {
+        "id": 4,
+        "image": "https://images.pexels.com/photos/133356/pexels-photo-133356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Kartal",
+        "Description": "Gökyüzünün efendisi kartal, yüksekten uçarak avını avlar."
+    },
+    {
+        "id": 5,
+        "image": "https://images.pexels.com/photos/802112/pexels-photo-802112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Zürafa",
+        "Description": "Uzun boyunlu zürafa, ağaçların tepesindeki yapraklara ulaşabilir."
+    },
+    {
+        "id": 6,
+        "image": "https://images.pexels.com/photos/1040659/pexels-photo-1040659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Yılan",
+        "Description": "Sessiz sedasız hareket eden yılan, doğanın gizemli yaratıklarından biridir."
+    },
+    {
+        "id": 7,
+        "image": "https://images.pexels.com/photos/302304/pexels-photo-302304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Kaplan",
+        "Description": "Çizgili kaplan, ormanın hızlı ve güçlü avcılarından biridir."
+    },
+    {
+        "id": 8,
+        "image": "https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Papağan",
+        "Description": "Renkli tüyleri ve konuşkanlığıyla bilinen papağan."
+    },
+    {
+        "id": 9,
+        "image": "https://images.pexels.com/photos/51345/alligator-american-alligator-gator-amphibian-51345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Timsah",
+        "Description": "Suda ve karada tehlikeli timsah, avını bekleyen bir avcıdır."
+    },
+    {
+        "id": 10,
+        "image": "https://images.pexels.com/photos/2122423/pexels-photo-2122423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Kanguru",
+        "Description": "Kanguru, kuyruğunu kullanarak uzun sıçramalar yapabilir."
+    },
+    {
+        "id": 11,
+        "image": "https://images.pexels.com/photos/3649170/pexels-photo-3649170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Köpek",
+        "Description": "Sadık gözleri ve dostça tavırlarıyla tanınan köpek."
+    },
+    {
+        "id": 12,
+        "image": "https://images.pexels.com/photos/3635870/pexels-photo-3635870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Balina",
+        "Description": "Okyanusların devi, büyük ve etkileyici bir balina."
+    },
+    {
+        "id": 13,
+        "image": "https://images.pexels.com/photos/37337/cat-silhouette-cats-silhouette-cat-s-eyes.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Kedi",
+        "Description": "Meraklı ve bağımsız kedi, gizemli bir yaratıktır."
+    },
+    {
+        "id": 14,
+        "image": "https://images.pexels.com/photos/1543417/pexels-photo-1543417.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Baykuş",
+        "Description": "Gece avcısı baykuş, sessiz uçuşuyla dikkat çeker."
+    },
+    {
+        "id": 15,
+        "image": "https://images.pexels.com/photos/70080/elephant-africa-african-elephant-kenya-70080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Fil",
+        "Description": "Büyük ve güçlü fil, hortumuyla çeşitli işler yapabilir."
+    },
+    {
+        "id": 16,
+        "image": "https://images.pexels.com/photos/355669/pexels-photo-355669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Maymun",
+        "Description": "Ağaçlarda oynamayı seven maymun, zeki ve oyuncu bir yaratıktır."
+    },
+    {
+        "id": 17,
+        "image": "https://images.pexels.com/photos/35669/hyla-meridionalis-the-frog-amphibians.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Kurbağa",
+        "Description": "Geceleyin sesiyle ormanları şenlendiren kurbağa."
+    },
+    {
+        "id": 18,
+        "image": "https://images.pexels.com/photos/58902/pexels-photo-58902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Tavuk",
+        "Description": "Çiftliklerin vazgeçilmezi tavuk, yumurtalarıyla bilinir."
+    },
+    {
+        "id": 19,
+        "image": "https://images.pexels.com/photos/3960877/pexels-photo-3960877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Penguen",
+        "Description": "Buzlu denizlerde yüzen sevimli penguenler."
+    },
+    {
+        "id": 20,
+        "image": "https://images.pexels.com/photos/35435/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Ayı",
+        "Description": "Ormanın güçlü ve kucaklayıcı yaratığı, ayı."
+    }
+]
