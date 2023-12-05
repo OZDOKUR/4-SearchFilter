@@ -20,12 +20,13 @@ function App() {
         <div className="dataContainer">
           {Data.filter((value) => {
             if (searchTerm === "") {
-              return value;
+              return true;
             } else if (
               value.title.toLowerCase().includes(searchTerm.toLowerCase())
             ) {
-              return value;
+              return true; 
             }
+            return false;
           }).map((value) => {
             return (
               <div className="data" key={value.id}>
